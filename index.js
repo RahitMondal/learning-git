@@ -1,5 +1,2 @@
 console.log("hello world");
-return {
-	name: "rahit",
-	surname: "mondal"
-}
+console.log("this is 2nd line");
